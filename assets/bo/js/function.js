@@ -24,8 +24,8 @@ function loaddatatable(){
 			"sLoadingRecords": "Mohon menunggu - loading...",
 			"sZeroRecords": "Tidak ada data ditampilkan"
 		},
-		 "iDisplayLength": 10,
-		"lengthMenu": [ 10, 25, 50, 75, 100,200,500,1000,1500,3000,5000,10000 ],
+		 "iDisplayLength": 5,
+		"lengthMenu": [ 5,10, 25, 50, 75, 100,200,500,1000,1500,3000,5000,10000 ],
 		"order": [[ 0, "desc" ]],//set default order sortir		
 		ordering: true,//order sortir is true
 		processing: true,

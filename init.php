@@ -1,7 +1,7 @@
 <?php
 
 $general_set = array(
-		"root_dir"=>'http://rivero.dev/',
+		"root_dir"=>'http://rivero.local/',
 		"time_zone"=>'Asia/Jakarta',//WIB
 		"DB_hostname"=>'localhost',
 		"DB_username"=>'root',
